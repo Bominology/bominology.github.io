@@ -30,9 +30,12 @@ url: "https://bominology.github.io/"
 
 github:
   username: bominology # change to your github username
+  
+instagram:
+  username: instagram_username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
