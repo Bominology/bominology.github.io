@@ -1,4 +1,4 @@
-name: "GitHub Actions"
+name: "Deploy Jekyll sites to Pages"
 on:
   push:
     branches:
